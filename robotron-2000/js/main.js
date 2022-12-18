@@ -58,19 +58,3 @@ controle.forEach((elemento) => {
         elemento.textContent = parseInt(elemento.textContent) + pecas[peca][elemento.dataset.estatistica];
     })
  }
-
-
-/*
-1 Quero acessar cada botão do HTML
-2 acessar cada input e identificalos
-2 quero atribuir um botão específico para um input específico
-2 Se o valor do botão for positivo quero adicionar 1 numero do valor do input
-3 Se o valor do botão for negativo quero subtrair 1 numero do valor do input
-
-Se o botão controle-ajuste for de braco e positivo, somar 1 para braço*/
-
-/*
-1 - criar uma lista de elementos
-2 - criar um loop onde o elemento clicado 
-3 - 
-*/
